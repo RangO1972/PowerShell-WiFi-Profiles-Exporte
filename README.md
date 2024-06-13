@@ -26,7 +26,8 @@ This PowerShell script allows you to export WiFi profiles, including clear-text 
 ## Notes
 This script does not support all edge cases and may require adjustments based on your system configuration.
 Always review exported files (*.xml and *.csv) for accuracy and security considerations.
-Contributing
+
+## Contributing
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
 
 ## License
