@@ -19,7 +19,7 @@
     Runs the script to import WiFi profiles asynchronously.
     
     .LINK
-    
+    https://github.com/RangO1972/PowerShell-WiFi-Profiles-Exporter
 #>
 
 [CmdletBinding()]
