@@ -1,6 +1,6 @@
 # PowerShell WiFi Profiles Exporter
 
-This PowerShell script allows you to export WiFi profiles from your system asynchronously using RunspacePool. It enhances performance by leveraging parallel execution, making it ideal for systems with multiple WiFi profiles.
+This PowerShell script allows you to export WiFi profiles, including clear-text passwords, from your system asynchronously using RunspacePool. It enhances performance by leveraging parallel execution, making it ideal for systems with multiple WiFi profiles.
 
 ## Features
 
