@@ -20,4 +20,7 @@ This PowerShell script allows you to export WiFi profiles from your system async
 ```powershell
 .\Export-WiFiProfiles.ps1
 ```
-5. 
+
+## Requirements
+* Windows PowerShell 4.0 or higher.
+  
