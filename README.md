@@ -14,3 +14,10 @@ This PowerShell script allows you to export WiFi profiles from your system async
 2. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/RangO1972/PowerShell-WiFi-Profiles-Exporter.git
+   ```
+3. Open PowerShell and navigate to the directory containing the script (Export-WiFiProfiles.ps1).
+4. Run the script:
+```powershell
+.\Export-WiFiProfiles.ps1
+```
+5. 
